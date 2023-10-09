@@ -23,17 +23,19 @@ Ensure you have Node.js installed on your machine. Open a terminal and run the f
 ```bash
 node slot_machine.js
 ```
+## How to Run
+
 Follow the prompts to play the game.
 
-Code
-The game code is written in JavaScript and uses the prompt-sync library to take user input. The game logic includes functions for depositing money, choosing the number of lines to bet on, placing bets, spinning the slot machine, checking for wins, and managing the game loop.
+## Code
+
+The game code is written in JavaScript and uses the `prompt-sync` library to take user input. The game logic includes functions for depositing money, choosing the number of lines to bet on, placing bets, spinning the slot machine, checking for wins, and managing the game loop.
 
 Feel free to modify and improve the code to suit your needs!
 
-License
-This project is licensed under the MIT License. Feel free to use and modify the code as per the license terms.
+## License
 
-```vbnet
-This Markdown content is now corrected and can be directly copied and pasted into your GitHub README file. Make sure to save it as `README.md` in your GitHub repository for it to be displayed correctly.
-```
+This project is licensed under the [MIT License](LICENSE). Feel free to use and modify the code as per the license terms.
+
+
 
