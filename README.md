@@ -22,6 +22,7 @@ Ensure you have Node.js installed on your machine. Open a terminal and run the f
 
 ```bash
 node slot_machine.js
+\```
 
 Follow the prompts to play the game.
 
